@@ -1,0 +1,86 @@
+
+body{
+    padding-top: 60px;
+  padding-bottom: 10px;
+   background-image: url("/images/Companions_adelie_penguins.jpg");
+   background-size: 100%;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+
+header{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 80px;
+  
+
+}
+.section-header{
+    color: rgb(20, 19, 19);
+    font-size:25px;
+    
+}
+article{
+    background-color: transparent;
+}
+#para1{
+    color: green;
+    font-size:15px;
+    background-color: transparent;
+}
+#para2{
+    color:green;
+    font-size:15px;
+    background-color: transparent;
+}
+#para3{
+    color:green;
+    font-size:15px;
+    background-color: transparent;
+}
+
+ol li{
+    background-color: transparent;
+    margin:4px;
+    padding:10px;
+    color:green;
+    font-size: 15px;
+}
+.aside-header{
+    font-size: 15px;
+    background-color: transparent;
+}
+#para4{
+    background: transparent;
+    color:green;
+    font-size: 15px;
+}
+
+.myfooter{
+    background-color: transparent;
+    color:green;
+    text-align:center;
+    font-size:15px;
+}
+.img-circle {
+    
+    border-radius: 50%;
+     
+    
+}
+.form1{
+    color: black;
+    margin: 54px;
+    font-size: 23px;
+}
+.form2{
+    color: black;
+    margin: -61px;
+    font-size: 23px;
+}
+
+
+
+
